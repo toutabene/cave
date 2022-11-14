@@ -1,0 +1,38 @@
+table, td {
+    border: 1px solid #333;
+    text-align: center;
+}
+
+.fond{
+    background-image: url("./image/medoc.gif");
+}
+
+.title, div{
+    text-align: center;
+    border-left: 5%;
+    border-right: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+audio{
+    text-align: center;
+}
+
+.title, div{
+    border: 2px ridge black;
+    border-radius: 25% / 75%;
+    background-color: rgb(255, 255, 255);
+}
+
+ol{
+    border: 2px ridge black;
+    border-radius: 10% / 50%;
+    border-left: 5%;
+    border-right: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(189, 248, 78);
+    padding-left: 15%;
+}
+

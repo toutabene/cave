@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    float: right;
+    padding-right: 10%;
+}
+
+h2{
+    padding-left: 15%;
+    padding-top: 5%;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/*.space{
+    padding-top: 15%;
+}*/
+
+.bloc{
+    border: 2px ridge black;
+    border-radius: 10% / 50%;
+    border-left: 5%;
+    border-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: aquamarine;
+}
+
+ul{
+    padding-left: 10%;
+}
+
+.text{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a{
+    text-align: right;
+}
